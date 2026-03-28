@@ -1,0 +1,45 @@
+138. Printing statistics.
+
+=== tt_um_silicon_strummer ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+      502        - wires
+      537        - wire bits
+       65        - public wires
+      100        - public wire bits
+        8        - ports
+       43        - port bits
+      518 7.12E+03 cells
+        4   50.803   sg13cmos5l_a21o_1
+       47  426.384   sg13cmos5l_a21oi_1
+        4   58.061   sg13cmos5l_a221oi_1
+        3   32.546   sg13cmos5l_a22oi_1
+       17  154.224   sg13cmos5l_and2_1
+        3   38.102   sg13cmos5l_and3_1
+        5   36.288   sg13cmos5l_buf_1
+       57 2.79E+03   sg13cmos5l_dfrbpq_1
+       24  130.637   sg13cmos5l_inv_1
+        3   54.432   sg13cmos5l_mux2_1
+       45  326.592   sg13cmos5l_nand2_1
+       22  199.584   sg13cmos5l_nand2b_1
+        9   81.648   sg13cmos5l_nand3_1
+        4   50.803   sg13cmos5l_nand3b_1
+        4   43.546   sg13cmos5l_nand4_1
+       49  355.622   sg13cmos5l_nor2_1
+       24  217.728   sg13cmos5l_nor2b_1
+       20   181.44   sg13cmos5l_nor3_1
+        2   21.773   sg13cmos5l_nor4_1
+       60   544.32   sg13cmos5l_o21ai_1
+        5    45.36   sg13cmos5l_or2_1
+        3   38.102   sg13cmos5l_or3_1
+        1   14.515   sg13cmos5l_or4_1
+       30  217.728   sg13cmos5l_tiehi
+        7   50.803   sg13cmos5l_tielo
+       44  638.669   sg13cmos5l_xnor2_1
+       22  319.334   sg13cmos5l_xor2_1
+
+   Chip area for module '\tt_um_silicon_strummer': 7121.406600
+     of which used for sequential elements: 2792.361600 (39.21%)
+
