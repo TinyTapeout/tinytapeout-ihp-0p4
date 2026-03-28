@@ -1,8 +1,8 @@
 {
-  "app": "Tiny Tapeout cmos 31b0b0ce",
+  "app": "Tiny Tapeout cmos 73c8952e",
   "repo": "https://github.com/Essenceia/uselessly_fast_bfloat16_multiplier",
-  "commit": "90fdb62aaddb467729d6fe543483a7d60afd4595",
-  "workflow_url": "https://github.com/Essenceia/uselessly_fast_bfloat16_multiplier/actions/runs/23682351700",
+  "commit": "25888666d757ded28125d5f0fac4ff7c341f6432",
+  "workflow_url": "https://github.com/Essenceia/uselessly_fast_bfloat16_multiplier/actions/runs/23686826501",
   "project_id": 4140,
   "sort_id": 1774684290967
 }
